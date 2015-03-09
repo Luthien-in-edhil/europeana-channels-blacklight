@@ -1,3 +1,3 @@
 <%# render 'search_sidebar' %>
 <%# render 'catalog/search_results' %>
-<%= render template: 'ui-components/templates/search/search-results-list' %>
+<%= render template: 'ui-components/templates/search/search-results-list', locals: { document_list: @document_list }  %>
