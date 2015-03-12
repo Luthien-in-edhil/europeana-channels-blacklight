@@ -5,7 +5,7 @@ Europeana Channels as a Rails +
 
 ## License
 
-Licensed under the EUPL V.1.1.
+Licensed under the EUPL V.1.1. frf
 
 For full details, see [LICENSE.md](LICENSE.md).
 
